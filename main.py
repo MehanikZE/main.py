@@ -13,7 +13,7 @@ user_agent = {"User-agent": "Mozilla/5.0"}
 url_api ='https://api.hh.ru/vacancies?text=python%20middle&per_page=100'
 DB_USER = "postgres"
 DB_NAME = "hw1"
-DB_PASSWORD = "Vsc341zh"
+DB_PASSWORD = "*******"
 DB_HOST = "127.0.0.1"
 DATABASE_URL = f"postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:5432/{DB_NAME}"
 
